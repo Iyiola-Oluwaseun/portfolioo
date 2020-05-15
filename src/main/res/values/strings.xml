@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+
+
+    <string name="str_bnv_tab1">Tab 1</string>
+    <string name="str_bnv_tab2">Tab 2</string>
+    <string name="str_bnv_tab3">Tab 3</string>
+    <string name="login_note">Welcome! Please login.</string>
+    <string name="stack_note">MOBILE DEVELOPER(JAVA KOTLIN AND FFLUTTER)</string>
+    <string name="welcome_note">Welcome %s!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="login_validation">Please enter username and password</string>
+
+    <string name="act_canvas_demo">Canvas Demo</string>
+
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="image">image</string>
+
+    <string name="str_save_image_text">Your images has been saved in gallery at </string>
+    <string name="enter_phone_number">Phone Number in +XX XXXXXXXXXX Format</string>
+    <string name="open_in_whatsapp">Open Number in Whatsapp</string>
+    <string name="your_hint_here">Your Hint Here</string>
+    <string name="mylogin">mylogin</string>
+</resources>
